@@ -1,0 +1,14 @@
+# python residue
+**/__pycache__
+*.pyc
+
+# IDE auxiliary directories
+*.idea
+
+# stray swap vim files
+*.swp
+
+# Executables
+*.o
+*.out
+*.exe
